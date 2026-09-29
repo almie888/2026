@@ -1,0 +1,5 @@
+window.SUPABASE_CONFIG={
+  url:'https://wlqcskkevtzmwzeviimz.supabase.co',
+  anonKey:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndscWNza2tldnR6bXd6ZXZpaW16Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA1OTQyOTMsImV4cCI6MjEwNjE3MDI5M30.c115F9MELS7IxglB3M8VMQX35KDs8_RBhTISnUq2Kqo',
+  publishableKey:'sb_publishable_8geTdTYFjUaGEkf1J051rg_43YQXBFR'
+};
